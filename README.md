@@ -16,7 +16,7 @@ The Pomodoro App is a timer application that helps you stay focused and producti
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/pomodoro-app.git
+   git clone https://github.com/scienmanas/pomodoro-app.git
    ```
    Navigate to the project directory:
    ```bash
